@@ -1,5 +1,5 @@
  # Link:-
-[AI Trip Planner](https://ai-trip-planner-amber.vercel.app/)
+[AI Travel Genie](https://ai-travel-genie-ipk2.vercel.app/)
 
 
   
